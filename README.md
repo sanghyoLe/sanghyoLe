@@ -22,7 +22,7 @@
 <h3 align="center"> Me </h3>
 <p align="center">
   <a href="https://kunsae.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://kunsae.tistory.com"/></a>&nbsp  
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gilsport1@gmail.com"/></a>
+  <a href="mailto:gilsport1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gilsport1@gmail.com"/></a>
 </p>
 <br>
 
